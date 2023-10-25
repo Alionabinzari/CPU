@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class CPU {
+public class CPU {
+
+    public class Processor {
+
+    }
+    public class RAM {
+
+    }
 }
